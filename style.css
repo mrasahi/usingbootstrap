@@ -1,5 +1,24 @@
 /* out own style stuff */
+body {
+    background-image: url(https://i.ytimg.com/vi/cQbUnax8ZAQ/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
 
 .bigfoot {
+    text-align: center;
+    color: brown;
+
+}
+
+.sometext {
+    color: white;
+    margin: 20%;
+    text-align: center;
+    background-color: #228b22;
+    border: 5px double white;
+}
+
+.myHeader {
     text-align: center;
 }
